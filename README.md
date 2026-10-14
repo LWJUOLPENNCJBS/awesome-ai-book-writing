@@ -23,6 +23,7 @@ Every entry includes what the tool is actually for, so you can tell in one line 
 - [Workflows That Actually Work](#workflows-that-actually-work)
 - [How to Choose](#how-to-choose)
 - [Communities](#communities)
+- [Related Lists](#related-lists)
 - [Contributing](#contributing)
 
 ---
@@ -159,6 +160,15 @@ Two honest warnings. First, no tool replaces judgment: knowing which scene earns
 - [r/KDP](https://www.reddit.com/r/KDP/) - Amazon-specific publishing questions.
 - [r/fantasywriters](https://www.reddit.com/r/fantasywriters/) - Craft-focused, mixed views on AI.
 - [Royal Road](https://www.royalroad.com) - Web serial platform where speed-of-release strategies are worked out in public.
+
+## Related Lists
+
+- [Awesome Romance AI Writers](https://github.com/grades2018/awesome-romance-ai-writers) - AI tools for romance novelists and long-form love-story writers.
+- [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
+- [Awesome AI Book Series Tools](https://github.com/grades2018/awesome-ai-book-series-tools) - Series bibles, continuity, and multi-book fiction.
+- [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and novel critique.
+- [Awesome AI Fantasy Writing Tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - AI and writing tools for fantasy and speculative fiction.
+- [Awesome Worldbuilding Lore Tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - Worldbuilding, lore, and setting continuity.
 
 ## Contributing
 
